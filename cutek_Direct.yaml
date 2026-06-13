@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN,services.googleapis.cn
   - DOMAIN-SUFFIX,611024.xyz
-  - IP-CIDR,101.52.125.21/32,DIRECT
-  - IP-CIDR,101.52.127.160/32,DIRECT
+  - IP-CIDR,101.52.125.21/32
+  - IP-CIDR,101.52.127.160/32
